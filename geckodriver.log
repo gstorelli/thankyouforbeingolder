@@ -1,0 +1,196 @@
+1588856632650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Giuseppe\\AppData\\Local\\Temp\\rust_mozprofile2fPeld"
+1588856633204	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588856633237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588856633237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588856633238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588856633238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588856635805	Marionette	INFO	Listening on port 31281
+1588856635848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=Ij3Wp8lg5Kz, line 317: Script terminated by timeout at:
+K@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=Ij3Wp8lg5Kz:317:1328
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=Ij3Wp8lg5Kz:317:3221
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=Ij3Wp8lg5Kz:284:197
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: "Tried to send a 'newSource' event on an already destroyed actor 'thread'"
+console.error: "Tried to send a 'newSource' event on an already destroyed actor 'thread'"
+console.error: "Tried to send a 'newSource' event on an already destroyed actor 'thread'"
+console.error: "Tried to send a 'newSource' event on an already destroyed actor 'thread'"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=_LwMUqU7IoX, line 315: Script terminated by timeout at:
+b@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=_LwMUqU7IoX:315:157
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=_LwMUqU7IoX:317:2536
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX, line 1296: Script terminated by timeout at:
+G@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:42396
+e@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:43618
+e@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:43618
+De@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:43917
+extractEvents@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:55575
+ac@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:21382
+Od@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:149921
+Td@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:34936
+ve@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:41779
+ue@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:41257
+g.unstable_runWithPriority@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:132:5270
+ch@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:65831
+Md@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:149787
+Vd@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:35120
+se@https://static.xx.fbcdn.net/rsrc.php/v3iAaQ4/y1/l/it_IT/m-yCZjR3iFq.js?_nc_x=_LwMUqU7IoX:1296:41102
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=_LwMUqU7IoX:82:551
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/LpA1cZ72Tte.js?_nc_x=_LwMUqU7IoX:317:2710
+
+1588859251121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 294))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 294))
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: container.editor is undefined
+Full stack: showNode/<@resource://devtools/client/inspector/markup/markup.js:1569:9
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+*************************
+console.error: (new TypeError("container.editor is undefined", "resource://devtools/client/inspector/markup/markup.js", 1569))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588870854846	Marionette	INFO	Stopped listening on port 31281
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588870867320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Giuseppe\\AppData\\Local\\Temp\\rust_mozprofilexbimwC"
+1588870867840	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588870867864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588870867864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588870867864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588870867864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588870870154	Marionette	INFO	Listening on port 32942
+1588870870525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/lsY83YkMFtX.js?_nc_x=_LwMUqU7IoX, line 66: unreachable code after return statement
